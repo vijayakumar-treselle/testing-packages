@@ -1,6 +1,6 @@
 {
   "name": "config-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "package for config manager",
   "main": "config-manager.js",
   "scripts": {

@@ -2,6 +2,7 @@
 
 'use strict';
 
+// Global Confic
 global.env_variable = {};
 
 /*
