@@ -1,0 +1,22 @@
+{
+  "name": "config-manager",
+  "version": "1.0.1",
+  "description": "package for config manager",
+  "main": "config-manager.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayakumar-treselle/testing-packages.git"
+  },
+  "keywords": [
+    "packages"
+  ],
+  "author": "vijayakumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijayakumar-treselle/testing-packages/issues"
+  },
+  "homepage": "https://github.com/vijayakumar-treselle/testing-packages#readme"
+}
